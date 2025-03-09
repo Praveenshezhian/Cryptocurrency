@@ -30,10 +30,6 @@ To get your own API
 after completing all the above stem correctly means go for the below step
   npm run dev
 
-  [image](https://github.com/user-attachments/assets/e2b30496-0b85-4f78-b5e2-290275d3899d)
-  ![image](https://github.com/user-attachments/assets/7803763e-d58a-409e-911e-4c5be021fb66)
-
-
   
 
 
